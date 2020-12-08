@@ -1,5 +1,5 @@
 # Vue-directive
-## Simple plugin to apply directive
+## Simple plugin to apply directive when element is scrolled in to view
 
 
 ### Install:
