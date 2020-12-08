@@ -1,10 +1,11 @@
 {
-  "name": "vue-directive",
-  "version": "1.0.0",
+  "name": "@leetajz/vue-directive",
+  "version": "1.0.1",
   "description": "Simple plugin to apply directive",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "npm publish --access=public"
   },
   "author": "Joakim Sjöbäck",
   "license": "ISC"
